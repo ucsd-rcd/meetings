@@ -1,12 +1,8 @@
 # UCSD RCD Community Meetings
 
-## Next Meeting: June 21, 2022, 2:00 PDT
-
-* Globus
-* Presenters
-* Agenda
-
-Zoom link
-
+The UCSD Research Computing & Data meetings are intended to update or
+introduce to the campus RCD on useful resouces, like software or
+services. The meetings also aim to increase the dialogue within the
+campus RCD community.
 
 
