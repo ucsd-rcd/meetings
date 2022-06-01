@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+title: UCSD RCD Community Meetings
+description: Calendar and materials in the UCSD Research Computing & Data Community Meetings
+logo: /assets/img/logo.png
+show_downloads: false
