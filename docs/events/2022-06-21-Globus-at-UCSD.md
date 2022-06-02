@@ -1,10 +1,5 @@
----
-title: Using Globus at UCSD
-category: [upcoming]
-date: 2022-06-21
----
-
 # Using Globus at UCSD
+June 21, 2022, 2:00 PDT
 
 Globus is software-as-a-service for research data management and provides high-speed, secure file transfer, and file sharing directly from existing stage systems.
 
@@ -16,19 +11,17 @@ introduction will provide important context for subsequent sessions.
 * Data management
 * Globus
 
-## Date & Time
-
-June 21, 2022, 2:00 PDT
-
 ## Location
 
 Zoom
 
-## Agenda
-
-## Coordinator
+## Host
 
 Rick Wagner (UCSD Research IT)
 
+## Resources
+
+* [Globus](https://globus.org/)
 
 
+[Back to meetings list](/meetings/)
