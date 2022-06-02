@@ -1,9 +1,10 @@
 # UCSD RCD Community Meetings
 
-The UCSD Research Computing & Data meetings are intended to update or
+The UCSD Research Computing & Data Community Meetings are intended to update or
 introduce to the campus RCD on useful resouces, like software or
-services. The meetings also aim to increase the dialogue within the
-campus RCD community.
+services. The meetings also aim to increase the dialogue within the campus RCD community.
+
+[About the UCSD RCD Community](https://ucsd-rcd.github.io/)
 
 ---
 
