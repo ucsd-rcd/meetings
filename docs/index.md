@@ -9,7 +9,6 @@ campus RCD community.
 
 ## Upcoming Meetings
 
-[Using Globus at UCSD](./events/2022-06-21-Globus-at-UCSD.html)
-
+[Using Globus at UCSD](./events/2022-06-21-Globus-at-UCSD.html)<br>
 June 21, 2022, 2:00 p.m. PDT
 
