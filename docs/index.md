@@ -10,11 +10,10 @@ campus RCD community.
 ## Upcoming Meetings
 
 ### [Using Globus at UCSD](./events/2022-06-21-Globus-at-UCSD.html)
-June 21, 2022, 2:00 p.m. PDT
 
-An introduction the[Globus data management service](https://globus.org/) including campus
-resources and presentations by research groups using it.
-
+An introduction to the [Globus data management service](https://globus.org/) including campus
+resources and presentations by research groups using it.<br>
+**When:**  June 21, 2022, 2:00 p.m. PDT<br>
 [Meeting details](./events/2022-06-21-Globus-at-UCSD.html)
 
 
