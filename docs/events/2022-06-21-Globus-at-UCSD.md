@@ -1,5 +1,5 @@
 # Using Globus at UCSD
-June 21, 2022, 2:00 PDT
+==June 21, 2022, 2:00 PDT==
 
 Globus is software-as-a-service for research data management and provides high-speed, secure file transfer, and file sharing directly from existing stage systems.
 
