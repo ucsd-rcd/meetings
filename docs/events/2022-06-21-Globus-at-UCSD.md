@@ -15,7 +15,7 @@ This meeting will start with a summary review of Globus features targeted at tho
 ## Location
 
 Zoom<br>
-https://ucsd.zoom.us/j/96110457841
+[https://ucsd.zoom.us/j/96110457841](https://ucsd.zoom.us/j/96110457841)
 
 Meeting ID: 961 1045 7841
 
