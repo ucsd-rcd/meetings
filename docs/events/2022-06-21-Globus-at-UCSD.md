@@ -25,6 +25,8 @@ Zoom
 ## Resources
 
 * [Globus](https://globus.org/)
+* [GenePattern](https://genepattern.org)
+* [CReD Portal](https://cred-portal.com/about/)
 
 ---
 
