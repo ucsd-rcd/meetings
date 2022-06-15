@@ -1,6 +1,6 @@
 # UC San Diego Research Computing & Data (RCD) Community
 
-Researchers and RCD professionals can come together to discuss issues important to the UCSD research community, learn about resources, software, tools, and services relevant to our work. Through regular meetings, a mailing list, and other modes of communication, the RCD community can share and learn together. What issues do you want to talk about and learn more about?
+Researchers and RCD professionals can come together to discuss issues important to the UCSD research community, learn about resources, software, tools, and services relevant to our work. Through regular meetings, a mailing list, and other modes of communication, the RCD community can share and learn together. What do you want to talk about and learn more about?
 
 [About the UCSD RCD Community](https://ucsd-rcd.github.io/)
 
