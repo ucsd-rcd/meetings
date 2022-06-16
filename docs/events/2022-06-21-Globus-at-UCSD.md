@@ -1,7 +1,9 @@
 # Using Globus at UCSD
 **June 21, 2022, 2:00 PDT**
 
-<div class="atcb" style="display:none;"> { "name":"Using Globus at UCSD", "description":"Organized by UCSD Research Computing & Data, see Zoom link at:<br>→ [url][https://ucsd-rcd.github.io/meetings/events/2022-06-21-Globus-at-UCSD.html[/url]", "startDate":"2022-06-21", "endDate":"2022-06-21", "startTime":"14:00", "endTime":"15:00", "location":"Zoom", "options":[ "Apple", "Google", "iCal", "Microsoft365", "Outlook.com" ], "timeZone":"America/Los_Angeles", } </div>
+<div class="atcb" style="display:none;">
+        { "name":"Using Globus at UCSD", "description":"Organized by UCSD Research Computing and Data, see Zoom link at:<br>→ [url][https://ucsd-rcd.github.io/meetings/events/2022-06-21-Globus-at-UCSD.html[/url]", "startDate":"2022-06-21", "endDate":"2022-06-21", "startTime":"14:00", "endTime":"15:00", "location":"Zoom", "options":[ "Apple", "Google", "iCal", "Microsoft365", "Outlook.com" ], "timeZone":"America/Los_Angeles" }
+</div>
 
 Globus is software-as-a-service for research data management and provides high-speed, secure file transfer, and file sharing directly from existing storage systems. Globus is operated by the University of Chicago and uses a freemium model, supported through subscriptions from campuses like UCSD. This gives UCSD researchers access to additional capabilities, including sharing with collaborators and using Globus with protected data.
 
