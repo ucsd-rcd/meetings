@@ -4,6 +4,10 @@ Researchers and RCD professionals can come together to discuss issues important 
 
 [About the UCSD RCD Community](https://ucsd-rcd.github.io/)
 
+## Topic Suggestions
+
+Have an idea for a future meeting topic? [Create an issue](https://github.com/ucsd-rcd/meetings/issues) in our meetings repository or join the [mailing list](https://groups.google.com/a/ucsd.edu/g/ucsd-rcd-l) and share it with the community!
+
 ---
 
 ## Upcoming Meetings
