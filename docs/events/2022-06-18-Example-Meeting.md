@@ -1,0 +1,37 @@
+# Example Meeting
+**June 18, 2022, 6:30 p.m. PDT**
+
+<div class="atcb" style="display:none;">
+        { "name":"Example Meeting", "description":"Organized by UCSD  RCD Community, see Zoom link at: [url]https://ucsd-rcd.github.io/meetings/events/2022-06-18-Example-Meeting.html[/url]", "startDate":"2022-06-18", "endDate":"2022-06-18", "startTime":"18:30", "endTime":"19:00", "location":"Zoom", "options":[ "Apple", "Google", "iCal", "Microsoft365", "Outlook.com" ], "timeZone":"America/Los_Angeles" }
+</div>
+
+This is an example meeting used to test out embedding videos and presentations.
+
+## Recording
+
+<iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/2323111/sp/232311100/embedIframeJs/uiconf_id/48743603/partner_id/2323111?iframeembed=true&playerId=kaltura_player&entry_id=1_v4v2hjo3&flashvars[streamerType]=auto&amp;flashvars[localizationCode]=en&amp;flashvars[leadWithHTML5]=true&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;flashvars[hotspots.plugin]=1&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_ag65a2ni" width="600" height="370" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="Video Upload Test"></iframe>
+
+## Topics
+
+* Community Building
+* Video and Content Hosting
+
+## Location
+
+Zoom<br>
+[https://ucsd.zoom.us/j/96110457841](https://ucsd.zoom.us/j/96110457841)
+
+Meeting ID: 961 1045 7841
+
+## Host & Presenters
+
+* Rick Wagner (UCSD Research IT)
+
+## Resources
+
+* [MediaSpace](https://mediaspace.ucsd.edu)
+* [UCSD RCD Community Channel](https://mediaspace.ucsd.edu/channel/UCSD%2BResearch%2BComputing%2B%2526%2BData%2BCommunity/260055772)
+
+---
+
+[Back to meetings list](/meetings/)
