@@ -35,7 +35,7 @@ This meeting was hosted on Zoom.
 * Rick Wagner (UCSD Research IT)
 * Vas Vasiliadis (UChicago, Globus)
 * Ted Liefeld (GenePattern, Mesirov Lab)
-* Brian Yee (CReD Portal, Yeo Lab)
+* Bill West (CReD Portal, Yeo Lab)
 
 ## Resources
 
