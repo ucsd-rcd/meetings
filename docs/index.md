@@ -12,6 +12,12 @@ Have an idea for a future meeting topic? [Create an issue](https://github.com/uc
 
 ## Upcoming Meetings
 
+To be announced!
+
+## Past Meetings
+
+Recording, slides, and notes are available on the pages for past meetings.
+
 ### [Using Globus at UCSD](./events/2022-06-21-Globus-at-UCSD.html)
 
 An introduction to the [Globus data management service](https://globus.org/) including campus
