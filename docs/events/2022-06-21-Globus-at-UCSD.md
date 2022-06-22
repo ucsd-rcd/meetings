@@ -16,9 +16,10 @@ Globus services into their web portals.
 
 ## Presentations
 
-* [Agenda & UCSD Globus Resources](/meetings/assets/presentations/2022-06-18/UCSDRCDCommExampleMeeting18JUN22.pdf)
-* [GenePattern](/meetings/assets/presentations/2022-06-18/GenePatternGlobusUCSD.pdf)
-
+* [Agenda & UCSD Globus Resources](/meetings/assets/presentations/2022-06-21/UCSDRCDCommMeeting21JUN22Globus.pdf)
+* [GenePattern](/meetings/assets/presentations/2022-06-21/GenePatternGlobusUCSD.pdf)
+* [CReD Portal](/meetings/assets/presentations/2022-06-21/CReDPortalGlobus.pdf)
+  
 ## Topics
 
 * Data management
