@@ -2,6 +2,13 @@
 
 Researchers and RCD professionals can come together to discuss issues important to the UCSD research community, learn about resources, software, tools, and services relevant to our work. Through regular meetings, a mailing list, and other modes of communication, the RCD community can share and learn together. What do you want to talk about and learn more about?
 
+Our meetings are held every other month on the second Tuesday at 2:00
+p.m. Upcoming meeting dates:
+* August 9, 2022
+* October 11, 2022
+* December 13, 2022
+* February 14, 2023
+
 [About the UCSD RCD Community](https://ucsd-rcd.github.io/)
 
 ## Topic Suggestions
@@ -12,7 +19,29 @@ Have an idea for a future meeting topic? [Create an issue](https://github.com/uc
 
 ## Upcoming Meetings
 
-To be announced!
+### Topic to Be Announced
+
+Our next meeting will be on Tuesday, August 9, 2022, at 2:00 p.m. PDT.
+
+<div class="atcb" style="display:none;">
+{
+  "name": "UCSD RCD Community Meeting for August",
+  "description": "More information: [url]https://ucsd-rcd.github.io/meetings/[/url]<br><br>Zoom link: https://ucsd.zoom.us/j/96110457841",
+  "startDate":"2022-08-09",
+  "endDate":"2022-08-09",
+  "startTime":"14:00",
+  "endTime":"15:00",
+  "timeZone":"America/Los_Angeles",
+  "location":"https://ucsd.zoom.us/j/96110457841",
+  "options": [
+      "Apple",
+      "Google",
+      "iCal",
+      "Microsoft365",
+      "Outlook.com"
+  ]
+}
+</div>
 
 ## Past Meetings
 
