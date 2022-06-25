@@ -13,7 +13,7 @@ p.m. Upcoming meeting dates:
 
 ## Topic Suggestions
 
-Have an idea for a future meeting topic? [Create an issue](https://github.com/ucsd-rcd/meetings/issues) in our meetings repository or join the [mailing list](https://groups.google.com/a/ucsd.edu/g/ucsd-rcd-l) and share it with the community!
+Have an idea for a future meeting topic? [Create an issue](https://github.com/ucsd-rcd/meetings/issues/new?title=Topic+suggestion:) in our meetings repository or join the [mailing list](https://groups.google.com/a/ucsd.edu/g/ucsd-rcd-l) and share it with the community!
 
 ---
 
