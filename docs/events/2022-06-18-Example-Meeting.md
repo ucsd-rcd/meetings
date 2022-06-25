@@ -4,9 +4,9 @@
 <div class="atcb" style="display:none;">
 {
   "name": "UCSD RCD Community Meeting: Example Topic",
-  "description": "An example meeting to use as a reference. <br>→<br>→ More information: [url]https://ucsd-rcd.github.io/meetings/events/2022-06-18-Example-Meeting.html[/url]<br>→<br>→Zoom link: [url]https://ucsd.zoom.us/j/96110457841[/url]",
-  "startDate":"2022-08-09",
-  "endDate":"2022-08-09",
+  "description": "An example meeting to use as a reference.<br><br>More information: [url]https://ucsd-rcd.github.io/meetings/events/2022-06-18-Example-Meeting.html[/url]<br><br>Zoom link: https://ucsd.zoom.us/j/96110457841",
+  "startDate":"2022-06-18",
+  "endDate":"2022-06-18",
   "startTime":"14:00",
   "endTime":"15:00",
   "timeZone":"America/Los_Angeles",
