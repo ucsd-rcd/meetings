@@ -1,8 +1,24 @@
 # Example Meeting
-**June 18, 2022, 6:30 p.m. PDT**
+**June 18, 2022, 2:00 p.m. PDT**
 
 <div class="atcb" style="display:none;">
-        { "name":"Example Meeting", "description":"Organized by UCSD  RCD Community, see Zoom link at: [url]https://ucsd-rcd.github.io/meetings/events/2022-06-18-Example-Meeting.html[/url]", "startDate":"2022-06-18", "endDate":"2022-06-18", "startTime":"18:30", "endTime":"19:00", "location":"Zoom", "options":[ "Apple", "Google", "iCal", "Microsoft365", "Outlook.com" ], "timeZone":"America/Los_Angeles" }
+{
+  "name": "UCSD RCD Community Meeting: Example Topic",
+  "description": "An example meeting to use as a reference. <br>→<br>→ More information: [url]https://ucsd-rcd.github.io/meetings/events/2022-06-18-Example-Meeting.html[/url]<br>→<br>→Zoom link: [url]https://ucsd.zoom.us/j/96110457841[/url]",
+  "startDate":"2022-08-09",
+  "endDate":"2022-08-09",
+  "startTime":"14:00",
+  "endTime":"15:00",
+  "timeZone":"America/Los_Angeles",
+  "location":"https://ucsd.zoom.us/j/96110457841",
+  "options": [
+      "Apple",
+      "Google",
+      "iCal",
+      "Microsoft365",
+      "Outlook.com"
+  ]
+}
 </div>
 
 This is an example meeting used to test out embedding videos and presentations.
