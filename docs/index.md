@@ -19,31 +19,11 @@ Have an idea for a future meeting topic? [Create an issue](https://github.com/uc
 
 ## Upcoming Meetings
 
-### Commercial Cloud Research Activity
+### [Commercial Cloud Research Activity](./events/2022-08-09-Commercial-Cloud-Research-Activity.html)
 
-An introduction to the various commercial cloud service providers and the negotiated agreements (BAAs) that are in place with the UC currently--discounts, egress waivers, IDC waivers, etc.
+Join us for this call wherein attendees will learn 1) how UC San Diego researchers are being supported with cloud computing options through UC agreements with commercial cloud service providers, and 2) researchers will share about their adoption of cloud computing/storage platforms in their workflows.
 
 Tuesday, August 9, 2022, at 2:00 p.m. PDT.
-
-<div class="atcb" style="display:none;">
-{
-  "name": "UCSD RCD Community Meeting: Commercial Cloud Research Activity",
-  "description": "An introduction to the various commercial cloud service providers and the negotiated agreements (BAAs) that are in place with the UC currently--discounts, egress waivers, IDC waivers, etc.<br><br>More information: [url]https://ucsd-rcd.github.io/meetings/[/url]<br><br>Zoom link: https://ucsd.zoom.us/j/96110457841",
-  "startDate":"2022-08-09",
-  "endDate":"2022-08-09",
-  "startTime":"14:00",
-  "endTime":"15:00",
-  "timeZone":"America/Los_Angeles",
-  "location":"https://ucsd.zoom.us/j/96110457841",
-  "options": [
-      "Apple",
-      "Google",
-      "iCal",
-      "Microsoft365",
-      "Outlook.com"
-  ]
-}
-</div>
 
 ## Past Meetings
 
