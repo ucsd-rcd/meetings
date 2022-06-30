@@ -21,16 +21,14 @@ Have an idea for a future meeting topic? [Create an issue](https://github.com/uc
 
 ### Commercial Cloud Research Activity
 
-An introduction to the various commercial cloud service providers and
-the negotiated agreements (BAAs) that are in place with the UC
-currently--discounts, egress waivers, IDC waivers, etc.
+An introduction to the various commercial cloud service providers and the negotiated agreements (BAAs) that are in place with the UC currently--discounts, egress waivers, IDC waivers, etc.
 
 Tuesday, August 9, 2022, at 2:00 p.m. PDT.
 
 <div class="atcb" style="display:none;">
 {
   "name": "UCSD RCD Community Meeting: Commercial Cloud Research Activity",
-  "description": "More information: [url]https://ucsd-rcd.github.io/meetings/[/url]<br><br>Zoom link: https://ucsd.zoom.us/j/96110457841",
+  "description": "An introduction to the various commercial cloud service providers and the negotiated agreements (BAAs) that are in place with the UC currently--discounts, egress waivers, IDC waivers, etc.<br><br>More information: [url]https://ucsd-rcd.github.io/meetings/[/url]<br><br>Zoom link: https://ucsd.zoom.us/j/96110457841",
   "startDate":"2022-08-09",
   "endDate":"2022-08-09",
   "startTime":"14:00",
