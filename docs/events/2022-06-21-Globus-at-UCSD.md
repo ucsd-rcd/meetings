@@ -19,6 +19,12 @@ Globus services into their web portals.
 * [Agenda & UCSD Globus Resources](/meetings/assets/presentations/2022-06-21/UCSDRCDCommMeeting21JUN22Globus.pdf)
 * [GenePattern](/meetings/assets/presentations/2022-06-21/GenePatternGlobusUCSD.pdf)
 * [CReD Portal](/meetings/assets/presentations/2022-06-21/CReDPortalGlobus.pdf)
+* Recent GlobusWorld Tour Presentations
+  * [Introduction to Globus for New Users](https://www.slideshare.net/globusonline/introduction-to-globus-for-new-users)
+  * [Globus for System Administrators](https://www.slideshare.net/globusonline/globus-for-system-administrators-252047200)
+  * [Endpoint Migration and Advanced Administration Topics](https://www.slideshare.net/globusonline/globus-endpoint-migration-and-advanced-administration-topics)
+  * [Automating Research Data Flows and an Introduction to the Globus Platform](https://www.slideshare.net/globusonline/introduction-to-globus-for-new-users)
+  * [Additional tutorial information and links to other helpful Globus resources](https://www.globusworld.org/conf/tutorials)
 
 ## Meeting Notes
 
