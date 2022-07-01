@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20220809T210000Z
+DTSTART:20220809T210000Z
+DTEND:20220809T220000Z
+SUMMARY:UCSD RCD Community Meeting: Commercial Cloud Research Activity
+DESCRIPTION:Join us for this call wherein attendees will learn 1) how UC San Diego researchers are being supported with cloud computing options through UC agreements with commercial cloud service providers, and 2) researchers will share about their adoption of cloud computing/storage platforms in their workflows.\n\nMore information: https://ucsd-rcd.github.io/meetings/events/2022-08-09-Commercial-Cloud-Research-Activity.html\n\nZoom link: https://ucsd.zoom.us/j/96110457841
+LOCATION:https://ucsd.zoom.us/j/96110457841
+STATUS:CONFIRMED
+LAST-MODIFIED:20220630T215015Z
+SEQUENCE:0
+END:VEVENT
+END:VCALENDAR
