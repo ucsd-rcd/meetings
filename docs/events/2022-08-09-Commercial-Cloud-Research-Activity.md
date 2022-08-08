@@ -46,7 +46,9 @@ Meeting ID: 961 1045 7841
 
 ## Host & Presenters
 
+* Rick Wagner (UCSD Research IT)
 * Cyd Burrows-Schilling (UCSD Research IT)
+* [Ricky Mok](https://catalog.caida.org/details/paper/2021_measuring_network_performance) ([CAIDA](https://www.caida.org))
 
 ## Resources
 
