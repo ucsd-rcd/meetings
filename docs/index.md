@@ -19,15 +19,17 @@ Have an idea for a future meeting topic? [Create an issue](https://github.com/uc
 
 ## Upcoming Meetings
 
-### [Commercial Cloud Research Activity](./events/2022-08-09-Commercial-Cloud-Research-Activity.html)
-
-Join us for this call wherein attendees will learn 1) how UC San Diego researchers are being supported with cloud computing options through UC agreements with commercial cloud service providers, and 2) researchers will share about their adoption of cloud computing/storage platforms in their workflows.
-
-Tuesday, August 9, 2022, at 2:00 p.m. PDT.
+Next meeting is on October 11, 2022. Topic to be announced.
 
 ## Past Meetings
 
 Recording, slides, and notes are available on the pages for past meetings.
+
+### [Commercial Cloud Research Activity](./events/2022-08-09-Commercial-Cloud-Research-Activity.html)
+
+A meeting about how UC San Diego researchers are being supported with cloud computing options through UC agreements with commercial cloud service providers and researchers share about their adoption of cloud computing/storage platforms in their workflows.
+
+Tuesday, August 9, 2022, at 2:00 p.m. PDT.
 
 ### [Using Globus at UCSD](./events/2022-06-21-Globus-at-UCSD.html)
 
