@@ -4,7 +4,7 @@
 <div class="atcb" style="display:none;">
 {
   "name": "UCSD RCD Community Meeting: Building & Using Science Gateways",
-  "description": "An example meeting to use as a reference.<br><br>More information: [url]https://ucsd-rcd.github.io/meetings/events/2022-10-11-ScieceGateways.html[/url]<br><br>Zoom link: https://ucsd.zoom.us/j/96110457841",
+  "description": "This meeting will provide a background on science gateways, including how to find existing gateway and what tools and platforms are out there if you want to host a gateway.<br><br>More information: [url]https://ucsd-rcd.github.io/meetings/events/2022-10-11-ScienceGateways.html[/url]<br><br>Zoom link: https://ucsd.zoom.us/j/96110457841",
   "startDate":"2022-10-11",
   "endDate":"2022-10-11",
   "startTime":"14:00",
@@ -61,7 +61,7 @@ Meeting ID: 961 1045 7841
 ## Host & Presenters
 
 * [Mike Zentner, PhD (SDSC Director of Sustainable Scientific Software)](https://today.ucsd.edu/story/michael_zentner_joins_sdsc_to_lead_sustainable_scientific_software_group)
-* [Wayne Pfeiffer, PhD](https://waynepfeiffer.com)
+* [Wayne Pfeiffer, PhD (SDSC)](https://waynepfeiffer.com)
 * [Antonio González Peña, PhD (Knight Lab)](https://github.com/antgonza)
 * Rick Wagner (UCSD Research IT)
 
