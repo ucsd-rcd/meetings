@@ -23,7 +23,17 @@ Have an idea for a future meeting topic? [Create an issue](https://github.com/uc
 
 ## Upcoming Meetings
 
-Next meeting is on October 11, 2022. Topic to be announced.
+### [Building & Using Science Gateways](./events/2022-10-11-ScienceGateways.html)
+
+Science gateways are web platforms that simplify the participation in
+science by easing the connection to otherwise difficult to use
+resources (like HPC or instruments), sharing data and computational
+codes, collaborating, and generating large international audiences for
+broader impact. This meeting will provide a background on science
+gateways, including how to find existing gateway and what tools and
+platforms are out there if you want to host a gateway. 
+
+Tuesday, October 11, 2022, at 2:00 p.m. PDT.
 
 ## Past Meetings
 
