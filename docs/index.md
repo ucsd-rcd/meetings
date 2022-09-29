@@ -30,7 +30,7 @@ science by easing the connection to otherwise difficult to use
 resources (like HPC or instruments), sharing data and computational
 codes, collaborating, and generating large international audiences for
 broader impact. This meeting will provide a background on science
-gateways, including how to find existing gateway and what tools and
+gateways, including how to find existing gateways and what tools and
 platforms are out there if you want to host a gateway. 
 
 Tuesday, October 11, 2022, at 2:00 p.m. PDT.

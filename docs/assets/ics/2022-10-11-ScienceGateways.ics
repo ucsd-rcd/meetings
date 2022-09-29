@@ -5,7 +5,7 @@ BEGIN:VEVENT
 DTSTAMP:20221011T210000Z
 DTSTART:20221011T210000Z
 DTEND:20221011T220000Z
-SUMMARY:UCSD RCD Community Meeting: Building &amp; Using Science Gateways
+SUMMARY:UCSD RCD Community Meeting: Building and Using Science Gateways
 DESCRIPTION:This meeting will provide a background on science gateways, including how to find existing gateways and what tools and platforms are out there if you want to host a gateway.\n\nMore information: https://ucsd-rcd.github.io/meetings/events/2022-10-11-ScienceGateways.html\n\nZoom link: https://ucsd.zoom.us/j/96110457841
 LOCATION:https://ucsd.zoom.us/j/96110457841
 STATUS:CONFIRMED
