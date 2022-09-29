@@ -4,7 +4,7 @@
 <div class="atcb" style="display:none;">
 {
   "name": "UCSD RCD Community Meeting: Building & Using Science Gateways",
-  "description": "This meeting will provide a background on science gateways, including how to find existing gateway and what tools and platforms are out there if you want to host a gateway.<br><br>More information: [url]https://ucsd-rcd.github.io/meetings/events/2022-10-11-ScienceGateways.html[/url]<br><br>Zoom link: https://ucsd.zoom.us/j/96110457841",
+  "description": "This meeting will provide a background on science gateways, including how to find existing gateways and what tools and platforms are out there if you want to host a gateway.<br><br>More information: [url]https://ucsd-rcd.github.io/meetings/events/2022-10-11-ScienceGateways.html[/url]<br><br>Zoom link: https://ucsd.zoom.us/j/96110457841",
   "startDate":"2022-10-11",
   "endDate":"2022-10-11",
   "startTime":"14:00",
@@ -32,7 +32,7 @@ creation of science gateways to make resesearch capabilities
 available outside of individual labs or campuses.
 
 This meeting will provide a background on science gateways, including
-how to find existing gateway and what tools and platforms are out
+how to find existing gateways and what tools and platforms are out
 there if you want to host a gateway. Contributors to two successful
 UCSD science gateways, the [CIPRES
 (phylogenetics)](https://www.phylo.org) and the [Qitta

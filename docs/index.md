@@ -1,6 +1,6 @@
 # About the Meetings
 
-The goal of the these meetings is to both build the UCSD RCD Community as a self-identifying group, and to provide the Community with resources to succeed.
+The goal of these meetings is to both build the UCSD RCD Community as a self-identifying group, and to provide the Community with resources to succeed.
 
 During the meetings, researchers and RCD professionals can come together to discuss issues important to the UCSD research community, learn about resources, software, tools, and services relevant to our work. Through the meetings, our [mailing list](https://groups.google.com/a/ucsd.edu/g/ucsd-rcd-l), and other modes of communication, the RCD community can share and learn together.
 
