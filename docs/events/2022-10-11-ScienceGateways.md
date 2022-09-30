@@ -35,7 +35,7 @@ This meeting will provide a background on science gateways, including
 how to find existing gateways and what tools and platforms are out
 there if you want to host a gateway. Contributors to two successful
 UCSD science gateways, the [CIPRES
-(phylogenetics)](https://www.phylo.org) and the [Qitta
+(phylogenetics)](https://www.phylo.org) and the [Qiita
 ('omics)](https://qiita.ucsd.edu), will describe their portals
 and can answer questions about the realities of developing and
 operating a gateway.
@@ -48,7 +48,7 @@ operating a gateway.
   Mike Zentner, PhD, SDSC, Science Gateways Community Institute, and Hubzero
 * Examples from Campus
   * Wayne Pfeiffer, PhD, [CIPRES Phylogenetics Portal](https://www.phylo.org) 
-  * Antonio González Peña, PhD., [Qitta 'Omics Portal](https://qiita.ucsd.edu)
+  * Antonio González Peña, PhD., [Qiita 'Omics Portal](https://qiita.ucsd.edu)
 * Community Discussion
 
 ## Location
@@ -79,8 +79,8 @@ Meeting ID: 961 1045 7841
 * [Hubzero](https://hubzero.org)
 * [CIPRES Phylogenetics Portal](https://www.phylo.org)
 * Qiita
-  * [Qitta 'Omics Portal](https://qiita.ucsd.edu)
-  * [Qitta GitHub repo](https://github.com/qiita-spots/qiita)
+  * [Qiita 'Omics Portal](https://qiita.ucsd.edu)
+  * [Qiita GitHub repo](https://github.com/qiita-spots/qiita)
 * [Knight Lab](https://knightlab.ucsd.edu)
 
 ---
