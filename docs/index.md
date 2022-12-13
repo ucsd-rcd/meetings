@@ -23,21 +23,21 @@ Have an idea for a future meeting topic? [Create an issue](https://github.com/uc
 
 ## Upcoming Meetings
 
+## Past Meetings
+
+Recording, slides, and notes are available on the pages for past meetings.
+
 ### [Building & Using Science Gateways](./events/2022-10-11-ScienceGateways.html)
 
 Science gateways are web platforms that simplify the participation in
 science by easing the connection to otherwise difficult to use
 resources (like HPC or instruments), sharing data and computational
 codes, collaborating, and generating large international audiences for
-broader impact. This meeting will provide a background on science
+broader impact. This meeting will provided a background on science
 gateways, including how to find existing gateways and what tools and
 platforms are out there if you want to host a gateway. 
 
 Tuesday, October 11, 2022, at 2:00 p.m. PDT.
-
-## Past Meetings
-
-Recording, slides, and notes are available on the pages for past meetings.
 
 ### [Commercial Cloud Research Activity](./events/2022-08-09-Commercial-Cloud-Research-Activity.html)
 
