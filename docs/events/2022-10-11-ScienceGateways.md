@@ -1,26 +1,6 @@
 # Building & Using Science Gateways
 **October 11, 2022, 2:00 p.m. PDT**
 
-<div class="atcb" style="display:none;">
-{
-  "name": "UCSD RCD Community Meeting: Building and Using Science Gateways",
-  "description": "This meeting will provide a background on science gateways, including how to find existing gateways and what tools and platforms are out there if you want to host a gateway.<br><br>More information: [url]https://ucsd-rcd.github.io/meetings/events/2022-10-11-ScienceGateways.html[/url]<br><br>Zoom link: https://ucsd.zoom.us/j/96110457841",
-  "startDate":"2022-10-11",
-  "endDate":"2022-10-11",
-  "startTime":"14:00",
-  "endTime":"15:00",
-  "timeZone":"America/Los_Angeles",
-  "location":"https://ucsd.zoom.us/j/96110457841",
-  "options": [
-      "Apple",
-      "Google",
-      "iCal",
-      "Microsoft365",
-      "Outlook.com"
-  ]
-}
-</div>
-
 ## Description
 
 Science gateways are web platforms that simplify the participation in
@@ -40,6 +20,10 @@ UCSD science gateways, the [CIPRES
 and can answer questions about the realities of developing and
 operating a gateway.
 
+## Recording
+
+<iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/2323111/sp/232311100/embedIframeJs/uiconf_id/48743603/partner_id/2323111?iframeembed=true&playerId=kaltura_player&entry_id=1_fw2y9t39&flashvars[streamerType]=auto&amp;flashvars[localizationCode]=en&amp;flashvars[leadWithHTML5]=true&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;flashvars[hotspots.plugin]=1&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_eve9tb8v" width="600" height="370" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="UCSD RCD Community Meeting October 11, 2022: Building & Using Science Gateways"></iframe>
+
 ## Agenda
 
 * Meeting Basics
@@ -53,10 +37,7 @@ operating a gateway.
 
 ## Location
 
-Zoom<br>
-[https://ucsd.zoom.us/j/96110457841](https://ucsd.zoom.us/j/96110457841)
-
-Meeting ID: 961 1045 7841
+This meeting was hosted on Zoom.
 
 ## Host & Presenters
 
