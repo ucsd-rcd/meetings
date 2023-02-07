@@ -3,7 +3,7 @@
 
 <div class="atcb" style="display:none;">
 {
-  "name": "UCSD RCD Community Meeting: Licensed Research Software",
+  "name": "UCSD RCD Community Meeting: Obtaining Research Software and Tools",
   "description": "This meeting will be a panel discussing several topics related to finding, purchasing, and using licensed software for research at UCSD.<br><br>More information: [url]https://ucsd-rcd.github.io/meetings/events/2023-02-14-ResearchSoftware.html[/url]<br><br>Zoom link: https://ucsd.zoom.us/j/96110457841",
   "startDate":"2023-02-14",
   "endDate":"2023-02-14",
