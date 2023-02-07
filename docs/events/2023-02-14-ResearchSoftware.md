@@ -58,9 +58,8 @@ process.
 ## Agenda
 
 * Meeting Basics
-* Panel
-  * Introductions
-  * Q & A
+* Panel Introductions
+* Panel Q & A
 * Community Discussion
 * Upcoming Meetings
 
