@@ -23,7 +23,7 @@ Have an idea for a future meeting topic? [Create an issue](https://github.com/uc
 
 ## Upcoming Meetings
 
-### [Research Software](./events/2023-02-14-ResearchSoftware.html)
+### [Licensed Research Software](./events/2023-02-14-ResearchSoftware.html)
 
 Lorem ipsum
 
