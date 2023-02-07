@@ -23,20 +23,37 @@
 
 ## Description
 
-Existing licenses, subscriptions, purchasing agreements
+How do you find out if UCSD has an existing software license or
+subscription? What about an already negotiated purchasing discount?
+And how about the processes to get new applications on managed
+devices? This meeting will give you some starting points to handle
+these questions.
 
-primarily closed source, licensed or subscribed software
+Software is a fundamental research tool, and many science domains rely
+on applications and services requiring a license, subscription, or
+other paid usage model. UCSD has several existing resources to help
+researchers acquire and use necessary software, including campus
+licenses, pre-negotiated discounts, and staff with years of experience
+handling software procurement. 
 
-some overlap with open source, especially in terms
+This meeting will be in a panel format, with staff from ITS Software
+Licensing Support, UCSD Health's IT Shared Services, the UCSD Library,
+and UCSD Research IT. They will be answering questions about:
+* how to find existing licenses;
+* who to ask for help with software procurement;
+* what processes are in place,
+  * for purchasing at different levels (research groups, campus, UC-wide),
+  * and for installation on managed devices;
+* how research software is funded;
+* and the relation between software and data licensing.
 
-* how to find
-* who to ask
-* processes 
-  * How is software purchased UCSD, UCOP
-  * Funding
-  * installation on managed devices
-* relation between software and data licensing
-* 
+While the focus of this meeting is on paid commercial software, there
+is an overlap with open-source applications, especially in the area of
+deploying it on managed devices.
+
+We need your input, too! Please join us to talk about software that
+could benefit your research and your experience with the procurement
+process.
 
 ## Agenda
 

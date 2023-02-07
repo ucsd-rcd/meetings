@@ -25,7 +25,11 @@ Have an idea for a future meeting topic? [Create an issue](https://github.com/uc
 
 ### [Licensed Research Software](./events/2023-02-14-ResearchSoftware.html)
 
-Lorem ipsum
+How do you find out if UCSD has an existing software license or
+subscription? What about an already negotiated purchasing discount?
+And how about the processes to get new applications on managed
+devices? This meeting will give you some starting points to handle
+these questions.
 
 Tuesday, February 14, 2023, at 2:00 p.m. PDT.
 
