@@ -39,11 +39,12 @@ handling software procurement.
 This meeting will be in a panel format, with staff from ITS Software
 Licensing Support, UCSD Health's IT Shared Services, the UCSD Library,
 and UCSD Research IT. They will be answering questions about:
+
 * how to find existing licenses;
 * who to ask for help with software procurement;
-* what processes are in place,
-  * for purchasing at different levels (research groups, campus, UC-wide),
-  * and for installation on managed devices;
+* what processes are in place;
+* purchasing at different levels (research groups, campus, UC-wide),
+* software installation on managed devices;
 * how research software is funded;
 * and the relation between software and data licensing.
 
