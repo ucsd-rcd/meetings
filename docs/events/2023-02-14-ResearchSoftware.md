@@ -73,7 +73,7 @@ Meeting ID: 961 1045 7841
 ## Host & Presenters
 
 * Ron Reyes (UCSD ITS, Manager, Software Licensing Support)
-* Maryam Sarkhoush (UCDS ITS, Software Licensing Support)
+* Maryam Sarkhoush (UCSD ITS, Software Licensing Support)
 * Miguel Villalobos (UCSD Health Information Services, Manager, IT Shared
   Services)
 * Annelise Sklar (UCSD Library, Assistant Director, Scholarship Tools and Methods Program)
