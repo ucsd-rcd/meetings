@@ -5,7 +5,7 @@ BEGIN:VEVENT
 DTSTAMP:20230214T220000Z
 DTSTART:20230214T220000Z
 DTEND:20230214T230000Z
-SUMMARY:UCSD RCD Community Meeting: Licensed Research Software
+SUMMARY:UCSD RCD Community Meeting: Obtaining Research Software and Tools
 DESCRIPTION:This meeting will be a panel discussing several topics related to finding, purchasing, and using licensed software for research at UCSD.\n\nMore information: https://ucsd-rcd.github.io/meetings/events/2023-02-14-ResearchSoftware.html\n\nZoom link: https://ucsd.zoom.us/j/96110457841
 LOCATION:https://ucsd.zoom.us/j/96110457841
 STATUS:CONFIRMED
