@@ -23,7 +23,7 @@ Have an idea for a future meeting topic? [Create an issue](https://github.com/uc
 
 ## Upcoming Meetings
 
-### [Licensed Research Software](./events/2023-02-14-ResearchSoftware.html)
+### [Obtaining Research Software and Tools](./events/2023-02-14-ResearchSoftware.html)
 
 How do you find out if UCSD has an existing software license or
 subscription? What about an already negotiated purchasing discount?

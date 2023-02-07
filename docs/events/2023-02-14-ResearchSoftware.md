@@ -1,4 +1,4 @@
-# Licensed Research Software
+# Obtaining Research Software and Tools
 **February 14, 2023, 2:00 p.m. PST**
 
 <div class="atcb" style="display:none;">
