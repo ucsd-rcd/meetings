@@ -23,19 +23,31 @@ Have an idea for a future meeting topic? [Create an issue](https://github.com/uc
 
 ## Upcoming Meetings
 
+### A Streetwise IT Guide to Research Travel
+
+Updated title and more details to follow.
+
+Tuesday, April 11, 2023, at 2:00 p.m. PDT.
+
+### Where to Compute? Campus & National Resources
+
+Updated title and more details to follow.
+
+Tuesday, June 13, 2023, at 2:00 p.m. PDT.
+
+## Past Meetings
+
+Recording, slides, and notes are available on the pages for past meetings.
+
 ### [Obtaining Research Software and Tools](./events/2023-02-14-ResearchSoftware.html)
 
 How do you find out if UCSD has an existing software license or
 subscription? What about an already negotiated purchasing discount?
 And how about the processes to get new applications on managed
-devices? This meeting will give you some starting points to handle
+devices? This meeting gives you some starting points to handle
 these questions.
 
 Tuesday, February 14, 2023, at 2:00 p.m. PDT.
-
-## Past Meetings
-
-Recording, slides, and notes are available on the pages for past meetings.
 
 ### [Building & Using Science Gateways](./events/2022-10-11-ScienceGateways.html)
 
@@ -43,7 +55,7 @@ Science gateways are web platforms that simplify the participation in
 science by easing the connection to otherwise difficult to use
 resources (like HPC or instruments), sharing data and computational
 codes, collaborating, and generating large international audiences for
-broader impact. This meeting will provided a background on science
+broader impact. This meeting provided a background on science
 gateways, including how to find existing gateways and what tools and
 platforms are out there if you want to host a gateway. 
 
