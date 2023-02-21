@@ -27,13 +27,13 @@ Have an idea for a future meeting topic? [Create an issue](https://github.com/uc
 
 Updated title and more details to follow.
 
-Tuesday, April 11, 2023, at 2:00 p.m. PDT.
+Tuesday, April 11, 2023, at 2:00 p.m. PDT. ([Calendar invite](assets/ics/2023-04-11-ResearchTravel.ics))
 
 ### Where to Compute? Campus & National Resources
 
 Updated title and more details to follow.
 
-Tuesday, June 13, 2023, at 2:00 p.m. PDT.
+Tuesday, June 13, 2023, at 2:00 p.m. PDT. ([Calendar invite](assets/ics/2023-06-13-ResearchComputingResources.ics))
 
 ## Past Meetings
 
@@ -47,7 +47,7 @@ And how about the processes to get new applications on managed
 devices? This meeting gives you some starting points to handle
 these questions.
 
-Tuesday, February 14, 2023, at 2:00 p.m. PDT.
+Tuesday, February 14, 2023, at 2:00 p.m. PST.
 
 ### [Building & Using Science Gateways](./events/2022-10-11-ScienceGateways.html)
 
