@@ -49,11 +49,12 @@ Recording, slides, and notes are available on the pages for past meetings.
 
 ### [Obtaining Research Software and Tools](./events/2023-02-14-ResearchSoftware.html)
 
-How do you find out if UCSD has an existing software license or
-subscription? What about an already negotiated purchasing discount?
-And how about the processes to get new applications on managed
-devices? This meeting gives you some starting points to handle
-these questions.
+How do we address IT needs to ensure our research is successful when
+traveling? Especially when the research relies on more than just
+packing the right chargers. Research IT can be hard enough, before
+working with equipment or data beyond the campus boundary. We'll cover
+some general recommendations and share some of the challenges other
+researchers have experienced.
 
 Tuesday, February 14, 2023, at 2:00 p.m. PST.
 

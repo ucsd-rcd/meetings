@@ -24,9 +24,9 @@
 How do we address IT needs to ensure our research is successful when
 traveling? Especially when the research relies on more than just
 packing the right chargers. Research IT can be hard enough, before
-working with equipment or data beyond the campus boundary. We'll cover some of the general
-recommendations, and share some of the challenges other researchers
-have experienced.
+working with equipment or data beyond the campus boundary. We'll cover
+some general recommendations and share some of the challenges other
+researchers have experienced.
 
 We'd love to hear from you about the hurdles you've overcome related
 to doing research away from campus!
@@ -39,8 +39,8 @@ to doing research away from campus!
   * After
 * Foreign vs. domestic travel considerations
 * Special cases
-  * Export control
-  * Field research
+  * Export Control
+  * Field Research
 
 ## Location
 
@@ -59,7 +59,7 @@ Meeting ID: 961 1045 7841
 
 UCSD, UCOP, and EDUCAUSE have published general
 recommendations about cybersecurity and travel. While these
-recommendations are focused on cybersecurity, many of the suggestions
+recommendations focus on cybersecurity, many 
 will help protect against accidents or other events.
 
 * UCSD [International Travel Cybersecurity](https://blink.ucsd.edu/technology/security/user-guides/international-travel.html)
@@ -72,7 +72,7 @@ will help protect against accidents or other events.
 
 Some devices and data may fall under export control.
 
-* See the export contol FAQ section ["Travel Abroad"](https://blink.ucsd.edu/sponsor/exportcontrol/faq.html)
+* See the export control FAQ section ["Travel Abroad"](https://blink.ucsd.edu/sponsor/exportcontrol/faq.html)
 * PDF: [What you need to know](https://blink.ucsd.edu/_files/sponsor-tab/export/UCSD-intl-travel-awareness.pdf)
 
 ### Field Research
