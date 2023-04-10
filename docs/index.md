@@ -23,7 +23,7 @@ Have an idea for a future meeting topic? [Create an issue](https://github.com/uc
 
 ## Upcoming Meetings
 
-### A Streetwise IT Guide to Research Travel
+### [IT Needs for Research Travel](./events/2023-04-11-ResearchTravel.html)
 
 Updated title and more details to follow.
 
