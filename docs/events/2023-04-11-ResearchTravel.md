@@ -10,7 +10,7 @@ working with equipment or data beyond the campus boundary. We'll cover
 some general recommendations and share some of the challenges other
 researchers have experienced.
 
-![](../assets/img/UCSDRCDCommMeeting11APR23Travel.png | width=720)
+<img src="../assets/img/UCSDRCDCommMeeting11APR23Travel.png" width="720">
 
 ## Recording
 
