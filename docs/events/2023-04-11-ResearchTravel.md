@@ -1,25 +1,7 @@
 # IT Needs for Research Travel
 **April 11, 2021, 2:00 p.m. PDT**
 
-<div class="atcb" style="display:none;">
-{
-  "name": "UCSD RCD Community Meeting: IT Needs for Research Travel",
-  "description": "Thinking about IT needs and challenges when doing reseach on travel.<br><br>More information: [url]https://ucsd-rcd.github.io/meetings/events/2023-04-11-ResearchTravel.html[/url]<br><br>Zoom link: https://ucsd.zoom.us/j/96110457841",
-  "startDate":"2023-04-11",
-  "endDate":"2023-04-11",
-  "startTime":"14:00",
-  "endTime":"15:00",
-  "timeZone":"America/Los_Angeles",
-  "location":"https://ucsd.zoom.us/j/96110457841",
-  "options": [
-      "Apple",
-      "Google",
-      "iCal",
-      "Microsoft365",
-      "Outlook.com"
-  ]
-}
-</div>
+## Description
 
 How do we address IT needs to ensure our research is successful when
 traveling? Especially when the research relies on more than just
@@ -28,8 +10,11 @@ working with equipment or data beyond the campus boundary. We'll cover
 some general recommendations and share some of the challenges other
 researchers have experienced.
 
-We'd love to hear from you about the hurdles you've overcome related
-to doing research away from campus!
+![](assets/img/UCSDRCDCommMeeting11APR23Travel.png | width=720)
+
+## Recording
+
+<iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/2323111/sp/232311100/embedIframeJs/uiconf_id/48743603/partner_id/2323111?iframeembed=true&playerId=kaltura_player&entry_id=1_52p5eki9&flashvars[streamerType]=auto&amp;flashvars[localizationCode]=en&amp;flashvars[leadWithHTML5]=true&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;flashvars[hotspots.plugin]=1&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_ufe9ncia" width="600" height="370" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="UCSD RCD Community Meeting April 11, 2023: IT Needs for Research Travel"></iframe>
 
 ## Topics
 
@@ -42,12 +27,14 @@ to doing research away from campus!
   * Export Control
   * Field Research
 
+## Presentation & Notes
+
+* [Background & Discussion Topics](../assets/presentations/2023-04-11/UCSDRCDCommMeeting11APR23Travel.pdf)
+* [Attendees & Notes](https://docs.google.com/document/d/1eSekWgQBckbv-Nps-2L1zqeaBy8IK0rwn40HbjVeKP8/view)
+
 ## Location
 
-Zoom<br>
-[https://ucsd.zoom.us/j/96110457841](https://ucsd.zoom.us/j/96110457841)
-
-Meeting ID: 961 1045 7841
+This meeting was hosted on Zoom.
 
 ## Host & Presenters
 

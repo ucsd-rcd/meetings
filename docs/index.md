@@ -23,20 +23,6 @@ Have an idea for a future meeting topic? [Create an issue](https://github.com/uc
 
 ## Upcoming Meetings
 
-### [IT Needs for Research Travel](./events/2023-04-11-ResearchTravel.html)
-
-How do we address IT needs to ensure our research is successful when
-traveling? Especially when the research relies on more than just
-packing the right chargers. Research IT can be hard enough, before
-working with equipment or data beyond the campus boundary. We'll cover some of the general
-recommendations, and share some of the challenges other researchers
-have experienced.
-
-We'd love to hear from you about the hurdles you've overcome related
-to doing research away from campus!
-
-Tuesday, April 11, 2023, at 2:00 p.m. PDT. ([Calendar invite](assets/ics/2023-04-11-ResearchTravel.ics))
-
 ### Where to Compute? Campus & National Resources
 
 Updated title and more details to follow.
@@ -46,6 +32,17 @@ Tuesday, June 13, 2023, at 2:00 p.m. PDT. ([Calendar invite](assets/ics/2023-06-
 ## Past Meetings
 
 Recording, slides, and notes are available on the pages for past meetings.
+
+### [IT Needs for Research Travel](./events/2023-04-11-ResearchTravel.html)
+
+How do we address IT needs to ensure our research is successful when
+traveling? Especially when the research relies on more than just
+packing the right chargers. Research IT can be hard enough, before
+working with equipment or data beyond the campus boundary. We'll cover some of the general
+recommendations, and share some of the challenges other researchers
+have experienced.
+
+Tuesday, April 11, 2023, at 2:00 p.m. PDT.
 
 ### [Obtaining Research Software and Tools](./events/2023-02-14-ResearchSoftware.html)
 
