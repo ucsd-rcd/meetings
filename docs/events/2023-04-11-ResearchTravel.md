@@ -1,6 +1,10 @@
 # IT Needs for Research Travel
 **April 11, 2021, 2:00 p.m. PDT**
 
+<a target="_blank"
+href="../assets/img/UCSDRCDCommMeeting11APR23TravelThumb.png"><img
+src="../assets/img/UCSDRCDCommMeeting11APR23TravelThumb.png" width="900"></a>
+
 ## Description
 
 How do we address IT needs to ensure our research is successful when
