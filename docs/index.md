@@ -8,7 +8,6 @@ What do you want to talk about and learn more about?
 
 Our meetings are held every other month on the second Tuesday at 2:00
 p.m. Upcoming meeting dates:
-* February 14, 2023
 * April 11, 2023
 * June 13, 2023
 * August 8, 2023
