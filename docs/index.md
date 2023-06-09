@@ -26,7 +26,8 @@ Have an idea for a future meeting topic? [Create an issue](https://github.com/uc
 
 Updated title and more details to follow.
 
-Tuesday, June 13, 2023, at 2:00 p.m. PDT. ([Calendar invite](assets/ics/2023-06-13-ResearchComputingResources.ics))
+Tuesday, June 13, 2023, at 2:00 p.m. PDT. ([Calendar
+invite](assets/ics/2023-06-13-WhereToCompute.ics))
 
 ## Past Meetings
 

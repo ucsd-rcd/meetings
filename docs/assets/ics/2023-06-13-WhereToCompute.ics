@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20230613T210000Z
+DTSTART:20230613T210000Z
+DTEND:20230613T220000Z
+SUMMARY:UCSD RCD Community Meeting: Where to Compute? Campus and National Resources
+DESCRIPTION:Picking a compute resource is more than just a matter of finding enough cores and memory. During this meeting, we'll discuss some facets to consider when moving your research computing needs outgrow your laptop.\n\nMore information: https://ucsd-rcd.github.io/meetings/events/2023-06-13-WhereToCompute.html\n\nZoom link: https://ucsd.zoom.us/j/96110457841
+LOCATION:https://ucsd.zoom.us/j/96110457841
+STATUS:CONFIRMED
+LAST-MODIFIED:20230220T013234Z
+SEQUENCE:0
+END:VEVENT
+END:VCALENDAR
