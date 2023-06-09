@@ -22,11 +22,21 @@ Have an idea for a future meeting topic? [Create an issue](https://github.com/uc
 
 ## Upcoming Meetings
 
-### Where to Compute? Campus & National Resources
+### [Where to Compute? Campus & National Resources](./events/2023-06-13-WhereToCompute.md)
 
-Updated title and more details to follow.
+Picking a compute resource is more than just a matter of finding
+enough cores and memory. During this meeting, we'll discuss some
+facets to consider when moving your research computing needs outgrow
+your laptop. How productive you'll be on a compute resource can be
+impacted by several factors, like the software applications to be run,
+the data you're working with, the level and types of support, and
+whether the resource is paid vs. "free" (allocated). The presenters
+will share recommendations on selecting compute resources, a list of
+some campus and national resources, and a few examples from other UCSD
+researchers.
 
-Tuesday, June 13, 2023, at 2:00 p.m. PDT. ([Calendar invite](assets/ics/2023-06-13-ResearchComputingResources.ics))
+Tuesday, June 13, 2023, at 2:00 p.m. PDT. ([Calendar
+invite](assets/ics/2023-06-13-WhereToCompute.ics))
 
 ## Past Meetings
 
