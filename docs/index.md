@@ -26,7 +26,7 @@ Have an idea for a future meeting topic? [Create an issue](https://github.com/uc
 
 Picking a compute resource is more than just a matter of finding
 enough cores and memory. During this meeting, we'll discuss some
-facets to consider when moving your research computing needs outgrow
+facets to consider when your research computing needs outgrow
 your laptop. How productive you'll be on a compute resource can be
 impacted by several factors, like the software applications to be run,
 the data you're working with, the level and types of support, and

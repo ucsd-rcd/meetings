@@ -1,5 +1,5 @@
 # IT Needs for Research Travel
-**April 11, 2021, 2:00 p.m. PDT**
+**April 11, 2023, 2:00 p.m. PDT**
 
 <a target="_blank"
 href="../assets/img/UCSDRCDCommMeeting11APR23TravelThumb.png"><img
