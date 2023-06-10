@@ -8,9 +8,9 @@ What do you want to talk about and learn more about?
 
 Our meetings are held every other month on the second Tuesday at 2:00
 p.m. Upcoming meeting dates:
-* April 11, 2023
 * June 13, 2023
 * August 8, 2023
+* October 10, 2023
 
 [About the UCSD RCD Community](https://ucsd-rcd.github.io/)
 
