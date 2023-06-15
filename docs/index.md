@@ -8,9 +8,9 @@ What do you want to talk about and learn more about?
 
 Our meetings are held every other month on the second Tuesday at 2:00
 p.m. Upcoming meeting dates:
-* June 13, 2023
 * August 8, 2023
 * October 10, 2023
+* December 12, 2023
 
 [About the UCSD RCD Community](https://ucsd-rcd.github.io/)
 
@@ -21,6 +21,14 @@ Have an idea for a future meeting topic? [Create an issue](https://github.com/uc
 ---
 
 ## Upcoming Meetings
+
+### Topic TBD
+
+Tuesday, August 8, 2023, at 2:00 p.m. PDT.
+
+## Past Meetings
+
+Recording, slides, and notes are available on the pages for past meetings.
 
 ### [Where to Compute? Campus & National Resources](./events/2023-06-13-WhereToCompute.md)
 
@@ -35,12 +43,7 @@ will share recommendations on selecting compute resources, a list of
 some campus and national resources, and a few examples from other UCSD
 researchers.
 
-Tuesday, June 13, 2023, at 2:00 p.m. PDT. ([Calendar
-invite](assets/ics/2023-06-13-WhereToCompute.ics))
-
-## Past Meetings
-
-Recording, slides, and notes are available on the pages for past meetings.
+Tuesday, June 13, 2023, at 2:00 p.m. PDT.
 
 ### [IT Needs for Research Travel](./events/2023-04-11-ResearchTravel.html)
 
