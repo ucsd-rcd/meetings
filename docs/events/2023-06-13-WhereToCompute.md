@@ -1,26 +1,6 @@
 # Where to Compute?
 **June 13, 2023, 2:00 p.m. PDT**
 
-<div class="atcb" style="display:none;">
-{
-  "name": "UCSD RCD Community Meeting: Where to Compute? Campus and National Resources",
-  "description": "Picking a compute resource is more than just a matter of finding enough cores and memory. During this meeting, we'll discuss some facets to consider when moving your research computing needs outgrow your laptop.<br><br>More information: [url]https://ucsd-rcd.github.io/meetings/events/2023-06-13-WhereToCompute.html[/url]<br><br>Zoom link: https://ucsd.zoom.us/j/96110457841",
-  "startDate":"2023-06-13",
-  "endDate":"2023-06-13",
-  "startTime":"14:00",
-  "endTime":"15:00",
-  "timeZone":"America/Los_Angeles",
-  "location":"https://ucsd.zoom.us/j/96110457841",
-  "options": [
-      "Apple",
-      "Google",
-      "iCal",
-      "Microsoft365",
-      "Outlook.com"
-  ]
-}
-</div>
-
 <a target="_blank"
 href="../assets/img/UCSDRCDCommMeeting13JUN23ComputeThumb.png"><img
 src="../assets/img/UCSDRCDCommMeeting13JUN23ComputeThumb.png" width="900"></a>
@@ -38,6 +18,10 @@ will share recommendations on selecting compute resources, a list of
 some campus and national resources, and a few examples from other UCSD
 researchers.
 
+## Recording
+
+<iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/2323111/sp/232311100/embedIframeJs/uiconf_id/48743603/partner_id/2323111?iframeembed=true&playerId=kaltura_player&entry_id=1_jcy4ectz&flashvars[streamerType]=auto&amp;flashvars[localizationCode]=en&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;flashvars[hotspots.plugin]=1&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_sfxhd2l6" width="600" height="370" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="UCSD RCD Community Meeting June 13, 2023: Where to Compute?"></iframe>
+
 ## Agenda
 
 * What to consider before picking a resource
@@ -47,7 +31,6 @@ researchers.
   * Project parameters
 * Categorizing resources and aligning with your needs
 * Campus and national resources
-* A few use cases
 
 ## Topics
 
@@ -55,12 +38,14 @@ researchers.
 * High-throughput computing
 * Cloud computing
 
+## Presentation & Notes
+
+* [Background & Discussion Topics](../assets/presentations/2023-06-13/UCSDRCDCommMeeting13JUN23Compute.pdf)
+* [Attendees & Notes](https://docs.google.com/document/d/1R0sx33mXPh8qTixqkMIt9kWFJ1yKw_qfvtnoJPV-8Eg/view)
+
 ## Location
 
-Zoom<br>
-[https://ucsd.zoom.us/j/96110457841](https://ucsd.zoom.us/j/96110457841)
-
-Meeting ID: 961 1045 7841
+This meeting was hosted on Zoom.
 
 ## Host & Presenters
 
@@ -75,11 +60,14 @@ Meeting ID: 961 1045 7841
   Cluster](https://ucsdcollab.atlassian.net/wiki/spaces/TWT/pages/17072279/UCSD+Research+Cluster)
 * [Triton Shared Computing Cluster (TSCC)](https://www.sdsc.edu/services/hpc/tscc/index.html)
 * Cloud Computing at UCSD
-  * [Previous Meeting](https://ucsd-rcd.github.io/meetings/events/2022-08-09-Commercial-Cloud-Research-Activity.html)
+  * [Previous Meeting](2022-08-09-Commercial-Cloud-Research-Activity.md)
   * [Blink](https://blink.ucsd.edu/technology/cloud/index.html)
 
 ### National
 
+* Science Gateways
+  * [Previous Meeting](2022-10-11-ScienceGateways.md)
+  * [SGX3](https://sciencegateways.org)
 * [ACCESS](https://access-ci.org)
   * [SDSC Expanse](https://www.sdsc.edu/services/hpc/expanse/)
   * [TACC Frontera](https://tacc.utexas.edu/systems/frontera/)
