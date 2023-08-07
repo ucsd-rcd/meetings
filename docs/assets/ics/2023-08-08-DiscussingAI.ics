@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20230808T210000Z
+DTSTART:20230808T210000Z
+DTEND:20230808T220000Z
+SUMMARY:UCSD RCD Community Meeting: Discussing AI for Research
+DESCRIPTION:Large language models like ChatGPT have many potential uses for research, such as code generation or drafting documentation. Let's get together to discuss where we're at and what we're keeping our eyes on.\n\nMore information: https://ucsd-rcd.github.io/meetings/events/2023-08-08-DiscussingAI.html\n\nZoom link: https://ucsd.zoom.us/j/96110457841
+LOCATION:https://ucsd.zoom.us/j/96110457841
+STATUS:CONFIRMED
+LAST-MODIFIED:20230807T013234Z
+SEQUENCE:0
+END:VEVENT
+END:VCALENDAR
