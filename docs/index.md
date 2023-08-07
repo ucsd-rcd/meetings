@@ -22,9 +22,18 @@ Have an idea for a future meeting topic? [Create an issue](https://github.com/uc
 
 ## Upcoming Meetings
 
-### Topic TBD
+### [Discussing AI for Research](./events/2023-08-08-DiscussingAI.md)
 
-Tuesday, August 8, 2023, at 2:00 p.m. PDT.
+Large language models like ChatGPT have many potential uses for
+research, such as code generation or drafting documentation. Let's get
+together to discuss where we're at and what we're keeping our eyes
+on. 
+* Has anyone been using ML for research or managing
+cyberinfrastructure?
+* Any successes or lesson learned so far?
+* What are your biggest concerns?
+
+Tuesday, August 8, 2023, at 2:00 p.m. PDT. ([Calendar invite](assets/ics/2023-08-08-DiscussingAI.ics))
 
 ## Past Meetings
 
