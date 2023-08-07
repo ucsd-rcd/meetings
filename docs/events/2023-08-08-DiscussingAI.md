@@ -5,8 +5,8 @@
 {
   "name": "UCSD RCD Community Meeting: Discussing AI for Research",
   "description": "Large language models like ChatGPT have many potential uses for research, such as code generation or drafting documentation. Let's get together to discuss where we're at and what we're keeping our eyes on.<br><br>More information: [url]https://ucsd-rcd.github.io/meetings/events/2023-08-08-DiscussingAI.html[/url]<br><br>Zoom link: https://ucsd.zoom.us/j/96110457841",
-  "startDate":"2022-08-08",
-  "endDate":"2022-08-08",
+  "startDate":"2023-08-08",
+  "endDate":"2023-08-08",
   "startTime":"14:00",
   "endTime":"15:00",
   "timeZone":"America/Los_Angeles",
